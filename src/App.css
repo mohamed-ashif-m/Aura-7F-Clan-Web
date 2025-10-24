@@ -1,0 +1,9 @@
+/* Additional styles specific to App component */
+.App {
+  text-align: left;
+}
+
+/* Ensure smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
