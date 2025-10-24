@@ -1699,7 +1699,7 @@ body {
 
 @media (max-width: 480px) {
   .header {
-    padding: 10px 0;
+    padding: 15px 0;
   }
   
   .logo {
@@ -1720,7 +1720,7 @@ body {
   }
   
   .nav {
-    top: 60px;
+    top: 50px;
     height: 100vh;
   }
   
@@ -1745,11 +1745,6 @@ body {
   
   .main-content {
     padding-top: 70px;
-  }
-  
-  /* Header */
-  .header {
-    padding: 8px 0;
   }
   
   .logo {
